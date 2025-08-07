@@ -33,3 +33,28 @@ A responsive and user-friendly **Weather Dashboard** web application built using
 4. Enter a city name in the search bar and click "Search" to view weather data for that location
 
 ---
+
+## 📁 Project Structure
+
+```
+
+real-time-weather-dashboard/
+│
+├── index.html         # Main HTML file
+├── style.css          # Styling for the app
+├── script.js          # JavaScript logic and API integration
+└── README.md          # Project documentation
+
+````
+
+---
+
+## 📌 Notes
+
+- You'll need a free API key from [OpenWeatherMap](https://openweathermap.org/api) and insert it into `script.js`:
+
+---
+
+## 🙌 Acknowledgments
+
+* [OpenWeatherMap](https://openweathermap.org/) for providing the weather API
